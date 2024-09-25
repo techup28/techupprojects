@@ -3,7 +3,26 @@ body{
     color: white;
 }
 .nav-links{
-    color: gray;
+    color: #8D9AA9;
     padding-left: 10px;
-    padding-right: padding
+    padding-right: 10px;
+}
+
+a:link, :visited{
+    font-size: 16px;
+    color: #4daafc;
+}
+button a:link, button a:visited{
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+.nav-links a:link{
+    color: #8D9AA9;
+    text-decoration: none;
+}
+.nav-links a:visited{
+    color: #8D9AA9;
+    text-decoration: none;
 }
