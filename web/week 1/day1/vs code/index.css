@@ -6,6 +6,7 @@ body{
     color: #8D9AA9;
     padding-left: 10px;
     padding-right: 10px;
+    cursor: pointer;
 }
 
 
@@ -17,6 +18,9 @@ button a:link, button a:visited{
     font-weight: bold;
     text-decoration: none;
     color: white;
+}
+button:hover{
+    
 }
 
 .nav-links a:link{
